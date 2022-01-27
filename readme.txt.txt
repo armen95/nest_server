@@ -168,7 +168,8 @@ http://localhost:3000/swager
 
 
 
-
+DATABASE NAME --> books_database
+POST --> 3306
 
 
 
