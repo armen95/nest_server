@@ -162,6 +162,8 @@ or
     "msg": "The Book Updated"
 }
 
+FOR MORE INFO ABOUT REQUESTS
+http://localhost:3000/swager
 
 
 
