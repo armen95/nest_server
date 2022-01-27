@@ -172,7 +172,9 @@ DATABASE NAME --> books_database
 POST --> 3306
 
 
-
+ADD NODE MODULS --> npm install 
+RUN --> npm run start 
+IT WILL WORK ON LOCALHOST 3000 PORT 
 
 
 
